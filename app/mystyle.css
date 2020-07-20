@@ -1,0 +1,33 @@
+/*.navbar-default{
+	background-color: #2196F3;
+}*/
+.navbar-brand a:hover{ 
+color:grey;
+}
+ .navbar-brand{ 	
+ 	color: white;
+
+font-size: 30px;
+}
+ .navbar-nav{
+ 	float: left;
+ }
+ nav a{
+  color: white;
+ }
+ footer{
+ 	background-color:#455A64
+
+ }
+ .col-centered{
+float: none;
+margin: 0 auto;
+}
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 30px;
+}
+.card-title{
+	color: #455A64
+}
